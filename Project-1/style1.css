@@ -32,6 +32,6 @@ body {
   height: 50px;
   margin-bottom: 20px;
 }
-.dash{
- color :hover
+.dash:hover{
+color: blue;
 }
